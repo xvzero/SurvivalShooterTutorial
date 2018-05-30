@@ -24,12 +24,12 @@ GameObject:
   - component: {fileID: 82035211574753370}
   - component: {fileID: 135878510645678510}
   - component: {fileID: 136713420837854260}
-  - component: {fileID: 114174858869227264}
   - component: {fileID: 195104172327050708}
+  - component: {fileID: 114174858869227264}
   - component: {fileID: 114760558125798406}
   - component: {fileID: 114951084136655996}
   m_Layer: 9
-  m_Name: Zombunny
+  m_Name: ZomBunny
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -74,15 +74,15 @@ Transform:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1242020988749864}
-  m_LocalRotation: {x: -0, y: -0.9518915, z: -0, w: 0.30643538}
-  m_LocalPosition: {x: 5.175049, y: 0, z: 4.639744}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 4784402803740636}
   - {fileID: 4963181665583180}
   m_Father: {fileID: 0}
   m_RootOrder: 0
-  m_LocalEulerAnglesHint: {x: 0, y: -144.311, z: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!4 &4784402803740636
 Transform:
   m_ObjectHideFlags: 1
