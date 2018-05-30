@@ -1,9 +1,11 @@
 ﻿<Properties StartupConfiguration="{A8400B27-4409-B36B-BA1A-2CB480926BBF}|">
   <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Enemy/EnemyMovement.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Enemy/EnemyAttack.cs">
     <Files>
       <File FileName="Assets/Scripts/Camera/CameraFollow.cs" Line="22" Column="2" />
-      <File FileName="Assets/Scripts/Enemy/EnemyMovement.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Enemy/EnemyMovement.cs" Line="7" Column="10" />
+      <File FileName="Assets/Scripts/Player/PlayerHealth.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Enemy/EnemyAttack.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
