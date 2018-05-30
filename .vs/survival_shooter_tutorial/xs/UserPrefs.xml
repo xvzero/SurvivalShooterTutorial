@@ -1,11 +1,12 @@
 ﻿<Properties StartupConfiguration="{A8400B27-4409-B36B-BA1A-2CB480926BBF}|">
   <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Player/PlayerShooting.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Managers/GameOverManager.cs">
     <Files>
       <File FileName="Assets/_Complete-Game/Scripts/Enemy/EnemyAttack.cs" Line="86" Column="2" />
       <File FileName="Assets/_Complete-Game/Scripts/Enemy/EnemyHealth.cs" Line="30" Column="24" />
       <File FileName="Assets/Scripts/Enemy/EnemyHealth.cs" Line="77" Column="30" />
       <File FileName="Assets/Scripts/Player/PlayerShooting.cs" Line="86" Column="1" />
+      <File FileName="Assets/Scripts/Managers/GameOverManager.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
